@@ -2,7 +2,7 @@
   "name": "thk-config-mock",
   "main": "./src/config.mock.js",
   "dependencies":{
-    "angular-mocks":"1.2.5"
+    "angular-mocks":"~1"
   },
   "ignore": [
     "**/.*",
